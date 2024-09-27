@@ -3,7 +3,7 @@
 *Desarrolladora de Software*
 <br /> 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Verónica+Ruíz;Sofware+Developer;Open-Source+Enthusiast;Cooking+Projects" alt="Headline">
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Verónica+Ruíz;Software+Developer;Open-Source+Enthusiast;Cooking+Projects" alt="Headline">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
@@ -57,7 +57,10 @@
 <!--- trophy (end) -->
 
 <h2 align="center">📈 Grafico de Contribucion 📈</h2>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VeronicaRuizBautista&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeronicaRuizBautista&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true" border-radius="15">
+</div>
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>

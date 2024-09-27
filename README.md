@@ -55,7 +55,9 @@
 <h2 align="center">🏆 Trofeos de Github 🏆</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VeronicaRuizBautista&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
 <!--- trophy (end) -->
-  
+
+<h2 align="center">📈 Grafico de Contribucion 📈</h2>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VeronicaRuizBautista&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>

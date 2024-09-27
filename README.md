@@ -5,12 +5,16 @@
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Verónica+Ruíz;Sofware+Developer;Open-Source+Enthusiast;Cooking+Projects" alt="Headline">
 </p>
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <p align="center">Visita mi <a href="https://veronicaruizbautista.github.io/portafolio/">Portfolio 🚀</a> para saber más sobre mí.</p>
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 </p>
+
 <!--Start Intro-->
 
 ### 👨🏻‍💻 &nbsp;About Me

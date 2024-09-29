@@ -17,7 +17,7 @@
 
 <!--Start Intro-->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 🙋💻 &nbsp;About Me
 <p align="left">Soy un Desarrolladora de Software, cuento con experiencia en la creación de diversos proyectos que me han permitido fotalecer mis habilidades y conocimientos.</p>
 
 - ✨ Pación por el aprendizaje
@@ -33,21 +33,41 @@
 <br>
 <h2 align="center">📊 Stats de Github 📊</h2>
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VeronicaRuizBautista&theme=midnight-purple&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VeronicaRuizBautista&theme=midnight-purple&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VeronicaRuizBautista&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/VeronicaRuizBautista">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=VeronicaRuizBautista&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/VeronicaRuizBautista">
+          <img align="center" src="https://streak-stats.demolab.com?user=VeronicaRuizBautista&theme=midnight-purple" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lenguajes más usados</strong></h3>
+      <p align="center">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaRuizBautista&theme=midnight-purple&layout=donut" alt="Cryptos Project" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Top Contribuciones</strong></h3>
+      <p align="center">
+        <a href="https://github.com/VeronicaRuizBautista">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=VeronicaRuizBautista&limit=3&theme=midnight-purple&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 <!--- stats (end) -->
 

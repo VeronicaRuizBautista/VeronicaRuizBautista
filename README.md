@@ -18,11 +18,11 @@
 <!--Start Intro-->
 
 ### 🙋💻 &nbsp;About Me
-<p align="left">Soy un Desarrolladora de Software, cuento con experiencia en la creación de diversos proyectos que me han permitido fotalecer mis habilidades y conocimientos.</p>
+<p align="left">Soy una Desarrolladora de Software, cuento con experiencia en la creación de diversos proyectos que me han permitido fortalecer mis habilidades y conocimientos.</p>
 
-- ✨ Pación por el aprendizaje
-- 🌱 Aprendiendo nuevos leguajes y frameworks
-- 👩‍💻 Trabajndo en proyectos personales
+- ✨ Pasión por el aprendizaje
+- 🌱 Aprendiendo nuevos lenguajes y frameworks
+- 👩‍💻 Trabajando en proyectos personales
 <!--End Intro-->
 
 <!--Languages and Tools Section-->       
@@ -76,7 +76,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VeronicaRuizBautista&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
 <!--- trophy (end) -->
 
-<h2 align="center">📈 Grafico de Contribucion 📈</h2>
+<h2 align="center">📈 Gráfico de Contribución 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=VeronicaRuizBautista&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true" border-radius="15">
 </div>
@@ -93,7 +93,7 @@
 
 <h2 align='center'>Thank You!!!!!
 
-<!--Seccion de contacto--> 
+<!--Sección de contacto--> 
 
 <h2 align="center">🤝 Contactame 🤝 </h2>
   <br>

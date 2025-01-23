@@ -28,7 +28,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lenguajes y Herramientas</h2> 
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=js,py,html,css,react,vue,nodejs,express,mongo,git,mysql,vscode,docker,vite&perline=7" />
+<img width="500px" src="https://skillicons.dev/icons?i=js,py,html,css,react,vue,nodejs,express,mongo,git,mysql,vscode,docker,wordpress,aws,fastapi,figma,flask,linux,npm,powershell,pytorch,sqlite,tailwind,tensorflow,ubuntu,vercel,vscode,vite&perline=7" />
 </p>
 <br>
 <h2 align="center">📊 Stats de Github 📊</h2>

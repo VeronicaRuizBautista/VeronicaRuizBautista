@@ -47,7 +47,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/VeronicaRuizBautista">
-          <img align="center" src="https://streak-stats.demolab.com?user=VeronicaRuizBautista&theme=midnight-purple" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com/?user=VeronicaRuizBautista&theme=midnight-purple" alt="Streak Stats" />
         </a>
       </p>
     </td>

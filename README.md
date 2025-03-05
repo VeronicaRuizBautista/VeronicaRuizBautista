@@ -1,6 +1,6 @@
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-*Desarrolladora de Software*
+### Sotware Developer | IA Developer
 <br /> 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Verónica+Ruíz;Software+Developer;Open-Source+Enthusiast;Cooking+Projects" alt="Headline">
@@ -18,11 +18,11 @@
 <!--Start Intro-->
 
 ### 🙋💻 &nbsp;About Me
-<p align="left">Soy una Desarrolladora de Software, cuento con experiencia en la creación de diversos proyectos que me han permitido fortalecer mis habilidades y conocimientos.</p>
+<p align="left">I am a Software Developer and AI Developer with experience in creating various projects that have allowed me to strengthen my skills and knowledge.</p>
 
-- ✨ Pasión por el aprendizaje
-- 🌱 Aprendiendo nuevos lenguajes y frameworks
-- 👩‍💻 Trabajando en proyectos personales
+- ✨ Passion for learning  
+- 🌱 Learning new languages and frameworks  
+- 👩‍💻 Working on personal projects
 <!--End Intro-->
 
 <!--Languages and Tools Section-->       
@@ -63,7 +63,7 @@
       <h3 align="center"><strong>Top Contribuciones</strong></h3>
       <p align="center">
         <a href="https://github.com/VeronicaRuizBautista">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=VeronicaRuizBautista&limit=5&hide_contributor_rank=false&theme=midnight-purple&order_by=contributions&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" width="470" src="https://github-contributor-stats.vercel.app/api?username=VeronicaRuizBautista&limit=5&hide_contributor_rank=false&theme=midnight-purple&order_by=contributions&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -73,7 +73,9 @@
 
 <!--- trophy (start) -->
 <h2 align="center">🏆 Trofeos de Github 🏆</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VeronicaRuizBautista&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a> </p>
+<div align="center" style="width: 100vw; display: flex; justify-content: center;  align-items: center; height: 100vh; color: red; background-color: red;">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=VeronicaRuizBautista&theme=radical" alt="" style="max-width: 100%; height: auto; display: block; margin: auto;"/>
+</div>
 <!--- trophy (end) -->
 
 <h2 align="center">📈 Gráfico de Contribución 📈</h2>

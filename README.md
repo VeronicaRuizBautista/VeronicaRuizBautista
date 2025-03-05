@@ -39,7 +39,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/VeronicaRuizBautista">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=VeronicaRuizBautista&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=VeronicaRuizBautista&hide=issues&show=prs_merged,prs_merged_percentage&count_private=true&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -47,7 +47,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/VeronicaRuizBautista">
-          <img align="center" src="https://streak-stats.demolab.com/?user=VeronicaRuizBautista&theme=midnight-purple" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com/?user=VeronicaRuizBautista&theme=midnight-purple&mode=weekly" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -63,7 +63,7 @@
       <h3 align="center"><strong>Top Contribuciones</strong></h3>
       <p align="center">
         <a href="https://github.com/VeronicaRuizBautista">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=VeronicaRuizBautista&limit=3&theme=midnight-purple&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=VeronicaRuizBautista&limit=5&hide_contributor_rank=false&theme=midnight-purple&order_by=contributions&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
